@@ -1,0 +1,22 @@
+img{
+    width: 1330px;
+    height: 500px;
+}
+p{
+    style: black ;
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+ul{
+    style:black;
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+ol{
+    style:black;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
